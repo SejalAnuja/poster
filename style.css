@@ -1,0 +1,32 @@
+html{
+    background: #AF8260;
+}
+#poster{
+    height: 300px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 5%;
+    box-shadow: 5px 10px 20px 0px rgba(15, 14, 14, 0.989);
+}
+img{
+    width: 100%;
+}
+#motivational{
+    background-color: antiquewhite;
+    text-align: center;
+    box-shadow: 5px 10px 20px 0px rgba(15, 14, 14, 0.989);
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-decoration: line-through;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 800;
+}
